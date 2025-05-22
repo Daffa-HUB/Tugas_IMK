@@ -1,1 +1,116 @@
+Cybersecurity Threat Landscape 2025
+1. AI / Machine Learning Technologies (66%)
+Ancaman terbesar berasal dari penggunaan AI generatif dan AI yang bersifat jahat.
+2. Convergence of IT and OT Security (13%)
+Ancaman dari integrasi sistem keamanan IT (Information Technology) dan OT (Operational Technology).
+3. Cloud Technologies (11%)
+Meningkatnya adopsi solusi berbasis cloud membawa risiko keamanan siber tersendiri.
+4. Quantum Technologies (4%)
+Ancaman dari komputasi kuantum dan enkripsi yang bisa ditembus.
+5. Decentralized Technologies (3%)
+Risiko dari teknologi desentralisasi seperti blockchain dan komputasi multi-pihak yang aman.
+6. Satellite Technologies (2%)
+Ancaman terkait komunikasi satelit, GPS, dan internet berbasis satelit.
+7. Lainnya (2%)
+Ancaman siber lain yang tidak dikategorikan secara spesifik.
 
+Teknologi AI / Machine Learning – 66%
+Ancaman terbesar: penggunaan AI jahat dan AI generatif untuk serangan siber.
+
+Konvergensi Keamanan IT & OT – 13%
+Risiko dari integrasi sistem teknologi informasi dan operasional.
+
+Teknologi Cloud – 11%
+Ancaman meningkat seiring makin banyaknya penggunaan layanan cloud.
+
+Teknologi Kuantum – 4%
+Potensi ancaman pada enkripsi karena komputasi kuantum.
+
+Teknologi Terdesentralisasi – 3%
+Melibatkan blockchain dan komputasi multi-pihak yang aman.
+
+Teknologi Satelit – 2%
+Ancaman pada komunikasi, GPS, dan koneksi internet berbasis satelit.
+
+Lain-lain – 2%
+Ancaman siber lainnya yang tidak masuk kategori di atas.
+
+Security Operations Center (SOC)?
+-Tempat Terpusat (Centralized location)
+Di sinilah sistem TI utama organisasi dipantau, dinilai, dan dilindungi dari serangan siber.
+
+-Unit Keamanan Terpusat (Centralized unit)
+Menangani isu keamanan baik dari sisi organisasi (bisnis) maupun teknis.
+
+-Pusat Agregasi Data Keamanan
+Mengelola jutaan data harian yang harus dipantau, dicatat, dianalisis, dan dikorelasikan.
+
+People (Orang)
+SOC butuh orang yang kompeten dan terlatih, termasuk:
+
+Formal Training (pelatihan resmi)
+
+On-the-Job Experience (pengalaman langsung di lapangan)
+
+Internal Training (pelatihan internal organisasi)
+
+Vendor-Specific Training (pelatihan dari vendor/tools khusus)
+
+Technology (Teknologi)
+Teknologi yang digunakan untuk mendeteksi dan merespons insiden:
+
+Endpoint protection
+
+Netflow (analisis lalu lintas jaringan)
+
+Incident Detection/Management
+
+Forensics (investigasi digital)
+
+Network Monitoring
+
+Threat Intel (intelijen ancaman)
+
+Process (Proses)
+Proses atau tahapan operasional keamanan meliputi:
+
+Preparation (persiapan)
+
+Identification (identifikasi)
+
+Containment (pembatasan)
+
+Eradication (pembersihan)
+
+Recovery (pemulihan)
+
+Lessons Learned (evaluasi)
+
+Langkah-langkah Transformasi:
+Automate Triage
+➤ Mengotomatiskan proses triase insiden untuk mengurangi false positives secara efisien.
+
+Integrate Tools
+➤ Menggunakan platform terpadu agar alur kerja berjalan lancar dan tidak terfragmentasi.
+
+Enhance Visibility
+➤ Memperluas pemantauan menyeluruh di seluruh lingkungan untuk deteksi ancaman yang lebih baik.
+
+Adopt AI
+➤ Mengadopsi kecerdasan buatan untuk pertahanan adaptif terhadap ancaman keamanan yang terus berkembang.
+
+AI-Enhanced SOCs	- Peningkatan kapabilitas deteksi 
+- Otomatisasi tugas rutin 
+- Memberikan insight yang bisa ditindaklanjuti 
+AI for Threat Hunting	- Identifikasi pola dan anomali
+- Analisis dataset besar
+- Menemukan ancaman tersembunyi 
+Behavioral Analytics	- Mendeteksi penyimpangan dari perilaku normal
+- Mengidentifikasi deviasi halus
+- Memberi peringatan dini
+AI-Driven Deception	- Mengelabui dan menjebak pelaku serangan 
+- Menyebar umpan secara otomatis
+- Memberi insight ke dalam metode serangan 
+Autonomous Response	- Merespons otomatis terhadap ancaman yang terdeteksi 
+- Mengambil tindakan otomatis 
+- Mengurangi waktu respons 
